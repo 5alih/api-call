@@ -1,0 +1,26 @@
+body{
+	background-color: rgb(30, 30, 30);
+	text-align: center;
+	margin-top: 10%;
+	color: goldenrod;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 30px;
+}
+
+button{
+	background-color: goldenrod;
+	color: black;
+	border-radius: 5px;
+	border: none;
+	padding: 5px;
+	font-size: 15px;
+}
+
+input{
+	background-color: antiquewhite;
+	border: none;
+	border-radius: 5px;
+	color: black;
+	padding: 5px;
+	font-size: 15px;
+}
